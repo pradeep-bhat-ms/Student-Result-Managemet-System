@@ -32,9 +32,8 @@ This system allows administrators to manage students, subjects, and marks, and p
 
 ---
 **📸 Screenshots**
+### 🖥️ Dashboard
 ![Dashboard](https://github.com/pradeep-bhat-ms/Student-Result-Managemet-System/blob/master/dashboard.png?raw=true)
-<img src="https://github.com/pradeep-bhat-ms/Agriconnect/blob/main/Gemini_Generated_Image_5rk4ux5rk4ux5rk4.png?raw=true" width="500" alt="AgriConnect Logo"><br>
 
-HomePage
+### 🏠 Homepage
 <img src="https://github.com/pradeep-bhat-ms/Student-Result-Managemet-System/blob/master/homepage.png?raw=true" width="600" alt="Student Result Management System Homepage"><br>
-
