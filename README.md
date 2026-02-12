@@ -35,25 +35,23 @@ Built using:
 
 ### 🔐 Admin Login
 <p align="center">
-  <img src="./Adminlogin.png" width="600" alt="Admin Login">
+  <img src="Adminlogin.png" width="700">
 </p>
 
 ### 📊 Admin Dashboard
 <p align="center">
-  <img src="./AdminDsashboard.png" width="600" alt="Admin Dashboard">
+  <img src="AdminDashboard.png" width="700">
 </p>
 
 ### 📝 Add Student
 <p align="center">
-  <img src="./AddStudent.png" width="600" alt="Add Student">
+  <img src="AddStudent.png" width="700">
 </p>
 
-### 📄 Student Result Page
+### 📄 Student Result
 <p align="center">
-  <img src="./StudentResult.png" width="600" alt="Student Result">
+  <img src="StudentResult.png" width="700">
 </p>
-
----
 
 ## 🚀 Features
 
