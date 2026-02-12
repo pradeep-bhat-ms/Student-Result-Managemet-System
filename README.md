@@ -1,7 +1,7 @@
 <h1 align="center">🎓 Student Result Management System (SRMS)</h1>
 
 <p align="center">
-  <img src="assets/images/banner.png" width="800" alt="SRMS Banner">
+  <img src="./homepage.png" width="800" alt="SRMS Banner">
 </p>
 
 <p align="center">
@@ -35,22 +35,22 @@ Built using:
 
 ### 🔐 Admin Login
 <p align="center">
-  <img src="assets/images/login.png" width="600" alt="Admin Login">
+  <img src="./Screenshot 2026-02-12 163113.png" width="600" alt="Admin Login">
 </p>
 
 ### 📊 Admin Dashboard
 <p align="center">
-  <img src="assets/images/dashboard.png" width="600" alt="Admin Dashboard">
+  <img src="./Screenshot 2026-02-12 163145.png" width="600" alt="Admin Dashboard">
 </p>
 
 ### 📝 Add Student
 <p align="center">
-  <img src="assets/images/add-student.png" width="600" alt="Add Student">
+  <img src="./Screenshot 2026-02-12 163221.png" width="600" alt="Add Student">
 </p>
 
 ### 📄 Student Result Page
 <p align="center">
-  <img src="assets/images/result.png" width="600" alt="Student Result">
+  <img src="./Screenshot 2026-02-12 163326.png" width="600" alt="Student Result">
 </p>
 
 ---
